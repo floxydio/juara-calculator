@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JuaraCalculator</string>
+    <string name="app_title">Calculate Tip</string>
+    <string name="amount">Bid Amount</string>
+    <string name="tipamount">Tip Amount: %s</string>
+    <string name="how_service">Tip (%)</string>
+</resources>
